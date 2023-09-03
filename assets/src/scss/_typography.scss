@@ -1,0 +1,52 @@
+html {
+
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+h1,h2,h3,h4,h5,h6,
+.h1,.h2,.h3,.h4,.h5,.h6 {
+    text-transform: uppercase;
+}
+p {
+    line-height: 1.125rem;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+}
+h1 {
+    // font-size: 52px; 
+    // font-size: 3.25rem;
+    font-size: toRem(52);
+    letter-spacing: toRem(1);
+    // letter-spacing: 0.0625rem;
+    font-weight: 700;
+}
+h2,
+.h2 {
+    /* font-size: 30px; */
+    font-size: 1.875rem;
+    letter-spacing: 0.0625rem;
+    word-spacing: -0.0625rem;
+}
+.h2 {
+    font-weight: 700;
+    letter-spacing: 0.25rem;
+}
+h3,
+.h3 {
+    font-weight: 600;
+    /* font-size: 18px; */
+    font-size: 1.125rem;
+}
+h4 {
+
+}
+h5 {
+
+}
+h6 {
+
+}
+

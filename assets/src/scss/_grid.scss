@@ -1,0 +1,51 @@
+.container {
+    margin: 0 auto;
+    position: relative;
+    max-width: 960px;
+    min-height: 600px;
+}
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.col-1 {
+
+} 
+.col-2 {
+
+}
+.col-3 {
+    width: 31%;
+}
+.col-4 {
+    width: 38%;
+}
+.col-5 {
+
+}
+.col-6 {
+    width: 49%;
+}
+.col-7 {
+
+}
+.col-8 {
+    width: 62%;
+}
+.col-9 {
+    width: 75%;
+}
+.col-10 { 
+
+}
+.col-11 {
+
+}
+.col-12 {
+    width: 100%;
+}
